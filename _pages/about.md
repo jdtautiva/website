@@ -7,7 +7,7 @@ subtitle: <a href='#'>Universidad Católica De Temuco</a>. Manuel Montt 56. CSF 
 profile:
   align: right
   image: Foto.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>+56452205619</p>
     <p>Manuel Montt 56</p>
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
