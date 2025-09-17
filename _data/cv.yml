@@ -2,96 +2,86 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Julián Andrés Díaz Tautiva
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd November 1994
     - name: Languages
-      value: English, German
+      value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Universidad Del Desarrollo
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Focus on Empirical Methods 
+        - Thesis: Assessing the role of corporate governance in non-financial performance: An Empirical Examination.
+ - title: Master in Innovation and Entrepreneurship
+      institution: Univeridad De Barcelona & OBS Business School
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Focus on Innovation Strategies on Latin America.
+ - title: Master in Business Economics
+      institution: Universidad Del Desarrollo
+      year: 2019
+      description:
+        - Focus on Economics of Entrepreneurship.
+ - title: Master in Marketing and Sales Management
+      institution: Universidad Gabriela Mistral
+      year: 2024
+      description:
+        - Focus on Industrial Marketing.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Director Management and Applied Economic Research Center
+      institution: UC Temuco, Chile.
+      year: 2024-2025
+      
+    - title: Research Assitant Professor
+      institution: UC Temuco, Chile.
+      year: 2024-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Chair, Economics Instruction — supervised teaching activities and mentoring of instructors.
+        - Lecturer of Intermediate Microeconomics and Intermediante Macroeconomics at undergraduate level. 
+        - Lecturer of Data Analysis for Social Science at doctoral level.
+
+    - title: Teaching Assitant Professor
+      institution: Universidad Santo Tomas, Chile
+      year: 2024-2025
       description:
-        - Description 1.
-        - Description 2.
+        - Lecturer of Creativity and New Business & Data Analysis for Marketing Research at undergradute level.
+        - Lecturer of Digital Marketing and Electronic commerce at MBA level.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Lecturer
+      institution: Universidad Del Desarrollo, Chile
+      year: 2023-2023
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+        - Lecturer of Management 101 at undergradute level.
+        
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Universidad Del Desarrollo Doctoral Scholarship.
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Organization of American States Doctoral Scholarship.
+        - Chile National Research Agency Doctoral Scholarship.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Corporate Governance and Organizational Performance.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Exploring the interrelationships of internal corporate governance mechanisms in fostering sustainable corporate performance
+    - title: Institutional Dynamics and Organizational Behaviour.
       items:
-        - Description 1.
-        - Description 2.
+        - Exploring the role of external dynamics in fostering organizational behaviour.
+ - title: Contextual Pressures and Agents Behaviour.
+      items:
+        - Understanding how contextual pressures shapes economic agents behaviour.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
