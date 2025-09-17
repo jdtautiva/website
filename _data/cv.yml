@@ -11,76 +11,72 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Universidad Del Desarrollo
-      year: 2024
+    - title: Ph.D. in Business Economics
+      institution: Universidad del Desarrollo
+      year: "2020–2024"
       description:
-        - Focus on Empirical Methods & Corporate Governance
- - title: Master in Innovation and Entrepreneurship
-      institution: Univeridad De Barcelona & OBS Business School
-      year: 2024
+        - Focus on empirical methods & corporate governance
+    - title: Master in Innovation and Entrepreneurship
+      institution: Universidad de Barcelona & OBS Business School
+      year: "2022–2023"
       description:
-        - Focus on Innovation Strategies on Latin America.
- - title: Master in Business Economics
-      institution: Universidad Del Desarrollo
-      year: 2019
+        - Focus on innovation strategies in Latin America
+    - title: Master in Business Economics
+      institution: Universidad del Desarrollo
+      year: "2020–2021"
       description:
-        - Focus on Economics of Entrepreneurship.
- - title: Master in Marketing and Sales Management
+        - Economics of entrepreneurship
+    - title: Master in Marketing and Sales Management
       institution: Universidad Gabriela Mistral
-      year: 2024
+      year: "2018–2019"
       description:
-        - Focus on Industrial Marketing.
+        - Industrial marketing
 
 - title: Experience
   type: time_table
   contents:
-    - title: Director Management and Applied Economic Research Center
-      institution: UC Temuco, Chile.
-      year: 2024 - 2025
-      
-    - title: Research Assitant Professor
-      institution: UC Temuco, Chile.
-      year: 2024 - 2025
+    - title: Director, Research Center for Management and Applied Economics
+      institution: Universidad Católica de Temuco, Chile
+      year: "2024–2025"
+    - title: Research Assistant Professor
+      institution: Universidad Católica de Temuco, Chile
+      year: "2024–2025"
       description:
-        - Chair, Economics Instruction — supervised teaching activities and mentoring of instructors.
-        - Lecturer of Intermediate Microeconomics and Intermediante Macroeconomics at undergraduate level. 
-        - Lecturer of Data Analysis for Social Science at doctoral level.
-
-    - title: Teaching Assitant Professor
-      institution: Universidad Santo Tomas, Chile
-      year: 2024 - 2025
+        - Chair, Economics Instruction — supervised teaching and mentoring
+        - Lecturer, Intermediate Microeconomics & Intermediate Macroeconomics (undergraduate)
+        - Lecturer, Data Analysis for Social Science (doctoral)
+    - title: Teaching Assistant Professor
+      institution: Universidad Santo Tomás, Chile
+      year: "2024–2025"
       description:
-        - Lecturer of Creativity and New Business & Data Analysis for Marketing Research at undergradute level.
-        - Lecturer of Digital Marketing and Electronic commerce at MBA level.
-
+        - Lecturer, Creativity & New Business; Data Analysis for Marketing Research (undergraduate)
+        - Lecturer, Digital Marketing & Electronic Commerce (MBA)
     - title: Lecturer
-      institution: Universidad Del Desarrollo, Chile
-      year: 2023
+      institution: Universidad del Desarrollo, Chile
+      year: "2023"
       description:
-        - Lecturer of Management 101 at undergradute level.
-        
+        - Lecturer, Management 101 (undergraduate)
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020
+    - year: "2020"
       items:
-        - Universidad Del Desarrollo Doctoral Scholarship.
-    - year: 2021
+        - Universidad del Desarrollo Doctoral Scholarship
+    - year: "2021"
       items:
-        - Organization of American States Doctoral Scholarship.
-        - Chile National Research Agency Doctoral Scholarship.
+        - Organization of American States Doctoral Scholarship
+        - Chile National Research Agency Doctoral Scholarship
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Corporate Governance and Organizational Performance.
+    - title: Corporate Governance and Organizational Performance
       items:
-        - Exploring the interrelationships of internal corporate governance mechanisms in fostering sustainable corporate performance
-    - title: Institutional Dynamics and Organizational Behaviour.
+        - Interrelationships of governance mechanisms in sustainable performance
+    - title: Institutional Dynamics and Organizational Behaviour
       items:
-        - Exploring the role of external dynamics in fostering organizational behaviour.
- - title: Contextual Pressures and Agents Behaviour.
+        - External dynamics shaping organizational behaviour
+    - title: Contextual Pressures and Agents' Behaviour
       items:
-        - Understanding how contextual pressures shapes economic agents behaviour.
-
+        - How contextual pressures shape economic agents' behaviour
