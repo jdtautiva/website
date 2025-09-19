@@ -86,7 +86,7 @@
       "startDate": "2022-01-01",
       "endDate": "2023-12-31",
       "score": "",
-      "courses": ["Innovation strategies in Latin America"]
+      "courses": ["Focus on Innovation strategies in Latin America"]
     },
     {
       "institution": "Universidad del Desarrollo",
@@ -97,7 +97,7 @@
       "startDate": "2020-01-01",
       "endDate": "2021-12-31",
       "score": "",
-      "courses": ["Economics of entrepreneurship"]
+      "courses": ["Focus on Economics of entrepreneurship"]
     },
     {
       "institution": "Universidad Gabriela Mistral",
@@ -108,7 +108,7 @@
       "startDate": "2018-01-01",
       "endDate": "2019-12-31",
       "score": "",
-      "courses": ["Industrial marketing"]
+      "courses": ["Focus on Industrial marketing"]
     }
   ],
   "awards": [
@@ -134,7 +134,7 @@
       "summary": ""
     }
   ],
-  "Recentpublications": [
+  "Publications": [
     {
       "name": "Navigating climate pressures: A bibliometric and systematic literature review of climate change strategies in small and medium-sized enterprises", 
       "publisher": "Heliyon", 
