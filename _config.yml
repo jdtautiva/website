@@ -262,8 +262,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Diaz Tautiva]
+  first_name: [Julián, A.]
 
   style: apa
   locale: en
@@ -631,12 +631,9 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+  - Top publications
   - projects
-  - volunteer
   - awards
-  - certificates
   - skills
   - languages
   - interests
-  - references
