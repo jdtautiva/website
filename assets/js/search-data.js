@@ -56,8 +56,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "news-published-the-article-quot-integrating-neuroscience-into-b2b-sales-research-foundations-frontiers-and-expert-directions-quot",
-          title: 'Published the article &amp;quot;Integrating neuroscience into B2B sales research: foundations, frontiers, and expert...',
+            },},{id: "news-published-the-article-integrating-neuroscience-into-b2b-sales-research-foundations-frontiers-and-expert-directions",
+          title: 'Published the article “Integrating neuroscience into B2B sales research: foundations, frontiers, and expert...',
           description: "",
           section: "News",},{id: "news-published-the-article-unseen-barriers-unspoken-limits-a-necessary-condition-analysis-of-women-s-career-advancement",
           title: 'Published the article “Unseen Barriers, Unspoken Limits: A Necessary Condition Analysis of Women’s...',
