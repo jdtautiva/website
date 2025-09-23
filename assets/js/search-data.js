@@ -56,7 +56,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "news-published-the-article-navigating-climate-pressures-a-bibliometric-and-systematic-literature-review-of-climate-change-strategies-in-small-and-medium-sized-enterprises",
+            },},{id: "news-published-the-article-navigating-climate-change-climate-change-awareness-and-strategies-in-micro-small-and-medium-sized-enterprises-in-a-developing-economy",
+          title: 'Published the article “Navigating climate change: Climate change awareness and strategies in micro,...',
+          description: "",
+          section: "News",},{id: "news-published-the-article-navigating-climate-pressures-a-bibliometric-and-systematic-literature-review-of-climate-change-strategies-in-small-and-medium-sized-enterprises",
           title: 'Published the article “Navigating climate pressures: A bibliometric and systematic literature review of...',
           description: "",
           section: "News",},{id: "news-published-the-article-integrating-neuroscience-into-b2b-sales-research-foundations-frontiers-and-expert-directions",
