@@ -56,8 +56,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-presented-the-article-titled-geoturism-and-entrepreneurship-policy-driven-development-in-the-kutralkura-unesco-global-geopark",
+          title: 'Presented the article titled “Geoturism and Entrepreneurship: Policy-Driven Development in the Kutralkura UNESCO...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
