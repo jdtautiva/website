@@ -56,7 +56,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/website/books/the_godfather/";
-            },},{id: "news-presented-the-article-titled-geoturism-and-entrepreneurship-policy-driven-development-in-the-kutralkura-unesco-global-geopark",
+            },},{id: "news-published-the-article-quot-integrating-neuroscience-into-b2b-sales-research-foundations-frontiers-and-expert-directions-quot",
+          title: 'Published the article &amp;quot;Integrating neuroscience into B2B sales research: foundations, frontiers, and expert...',
+          description: "",
+          section: "News",},{id: "news-published-the-article-unseen-barriers-unspoken-limits-a-necessary-condition-analysis-of-women-s-career-advancement",
+          title: 'Published the article “Unseen Barriers, Unspoken Limits: A Necessary Condition Analysis of Women’s...',
+          description: "",
+          section: "News",},{id: "news-presented-the-article-titled-geoturism-and-entrepreneurship-policy-driven-development-in-the-kutralkura-unesco-global-geopark",
           title: 'Presented the article titled “Geoturism and Entrepreneurship: Policy-Driven Development in the Kutralkura UNESCO...',
           description: "",
           section: "News",},{id: "projects-project-1",
