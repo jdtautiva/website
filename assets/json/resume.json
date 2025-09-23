@@ -109,6 +109,17 @@
       "endDate": "2019-12-31",
       "score": "",
       "courses": ["Focus on Industrial marketing"]
+    },
+    {
+      "institution": "Univeresidad De La Salle",
+      "location": "",
+      "url": "",
+      "area": "Finance and International Trade",
+      "studyType": "Bachelor",
+      "startDate": "2015-12-31",
+      "endDate": "2012-02-01",
+      "score": "",
+      "courses": ["Major International Trade Management"]
     }
   ],
   "awards": [
