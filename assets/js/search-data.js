@@ -51,7 +51,51 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "post-realizan-workshop-interdisciplinario-sobre-metodologías-innovadoras-para-la-investigación-gt-uct",
+        },{id: "post-investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educación-organizado-por-el-tec-de-monterrey-universidad-católica-de-temuco",
+        
+          title: 'Investigador de la FCJEA participa en workshop internacional sobre el futuro de la... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "El pasado 14 de mayo, el Dr. Julián Díaz, académico de la Facultad de Ciencias Jurídicas, Económicas y Administrativas (FCJEA) de la Universidad Católica de Temuco, participó en el workshop […]",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://fcjea.uct.cl/noticias/investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educacion-organizado-por-el-tec-de-monterrey/", "_blank");
+          
+        },
+      },{id: "post-investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educación-organizado-por-el-tec-de-monterrey-universidad-católica-de-temuco",
+        
+          title: 'Investigador de la FCJEA participa en workshop internacional sobre el futuro de la... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "El pasado 14 de mayo, el Dr. Julián Díaz, académico de la Facultad de Ciencias Jurídicas, Económicas y Administrativas (FCJEA) de la Universidad Católica de Temuco, participó en el workshop […]",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://fcjea.uct.cl/noticias/investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educacion-organizado-por-el-tec-de-monterrey/", "_blank");
+          
+        },
+      },{id: "post-conectando-investigación-y-sociedad-workshop-internacional-sobre-publicaciones-de-alto-impacto-en-management-universidad-católica-de-temuco",
+        
+          title: 'Conectando investigación y sociedad: Workshop internacional sobre publicaciones de alto impacto en Management... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "El pasado mes se celebró en la Universidad de San Andrés (Buenos Aires, Argentina) el Workshop: How to publish in high impact journals in management, un encuentro diseñado para académicos del […]",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://fcjea.uct.cl/noticias/conectando-investigacion-y-sociedad-workshop-internacional-sobre-publicaciones-de-alto-impacto-en-management/", "_blank");
+          
+        },
+      },{id: "post-minerales-críticos-uct-destaca-oportunidades-para-chile-argentina-y-la-formación-universitaria-gt-uct",
+        
+          title: 'Minerales críticos: UCT destaca oportunidades para Chile, Argentina y la formación universitaria &gt;... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.uct.cl/actualidad/noticias/minerales-criticos-uct-destaca-oportunidades-para-chile-argentina-y-la-formacion-universitaria/", "_blank");
+          
+        },
+      },{id: "post-realizan-workshop-interdisciplinario-sobre-metodologías-innovadoras-para-la-investigación-gt-uct",
         
           title: 'Realizan workshop interdisciplinario sobre metodologías innovadoras para la investigación &gt; UCT <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -60,6 +104,17 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://www.uct.cl/actualidad/noticias/realizan-workshop-interdisciplinario-sobre-metodologias-innovadoras-para-la-investigacion/", "_blank");
+          
+        },
+      },{id: "post-crece-el-pib-en-la-araucanía-en-medio-de-desafíos-estructurales-como-desempleo-y-falta-de-inversión",
+        
+          title: 'Crece el PIB en La Araucanía en medio de desafíos estructurales como desempleo... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A pesar del crecimiento de 3,2% reportado por el Banco Central en el Producto Interno Bruto (PIB) regional, La Araucanía enfrenta problemas como el desempleo, la informalidad laboral y la falta de inversión.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.elmostrador.cl/mercados/2025/01/08/crece-el-pib-en-la-araucania-en-medio-de-desafios-estructurales-como-desempleo-y-falta-de-inversion/", "_blank");
           
         },
       },{id: "books-the-godfather",
