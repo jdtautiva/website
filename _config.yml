@@ -121,9 +121,34 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: FCJEA UCT Post
+    posts:
+      - url: https://fcjea.uct.cl/noticias/investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educacion-organizado-por-el-tec-de-monterrey/
+        published_date: 2025-08-14
+        
+  - name: FCJEA UCT Post
+    posts:
+      - url: https://fcjea.uct.cl/noticias/conectando-investigacion-y-sociedad-workshop-internacional-sobre-publicaciones-de-alto-impacto-en-management/
+        published_date: 2025-05-10
+        
+  - name: FCJEA UCT Post
+    posts:
+      - url: https://fcjea.uct.cl/noticias/investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educacion-organizado-por-el-tec-de-monterrey/
+        published_date: 2025-05-14
+        
+  - name: UCT Post
+    posts:
+      - url: https://www.uct.cl/actualidad/noticias/minerales-criticos-uct-destaca-oportunidades-para-chile-argentina-y-la-formacion-universitaria/
+        published_date: 2025-04-11
+        
   - name: UCT Post
     posts:
       - url: https://www.uct.cl/actualidad/noticias/realizan-workshop-interdisciplinario-sobre-metodologias-innovadoras-para-la-investigacion/
+        published_date: 2025-01-08
+        
+  - name: El Mostrador News
+    posts:
+      - url: https://www.elmostrador.cl/mercados/2025/01/08/crece-el-pib-en-la-araucania-en-medio-de-desafios-estructurales-como-desempleo-y-falta-de-inversion/
         published_date: 2025-01-08
 # -----------------------------------------------------------------------------
 # Newsletter
