@@ -51,15 +51,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/people/";
           },
-        },{id: "post-investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educación-organizado-por-el-tec-de-monterrey-universidad-católica-de-temuco",
+        },{id: "post-académicos-de-la-facultad-participaron-en-conferencia-internacional-sobre-geoparques-unesco-universidad-católica-de-temuco",
         
-          title: 'Investigador de la FCJEA participa en workshop internacional sobre el futuro de la... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Académicos de la Facultad participaron en conferencia internacional sobre Geoparques UNESCO - Universidad... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "El pasado 14 de mayo, el Dr. Julián Díaz, académico de la Facultad de Ciencias Jurídicas, Económicas y Administrativas (FCJEA) de la Universidad Católica de Temuco, participó en el workshop […]",
+        description: "La Facultad de Ciencias Jurídicas, Económicas y Administrativas de la Universidad Católica de Temuco tuvo una destacada presencia en el 11th International Conference on UNESCO Global Geoparks, evento que reunió […]",
         section: "Posts",
         handler: () => {
           
-            window.open("https://fcjea.uct.cl/noticias/investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educacion-organizado-por-el-tec-de-monterrey/", "_blank");
+            window.open("https://fcjea.uct.cl/noticias/academicos-de-la-facultad-participaron-en-conferencia-internacional-sobre-geoparques-unesco/", "_blank");
+          
+        },
+      },{id: "post-iii-congreso-internacional-de-estudios-sociales-financieros-e-internacionales-universidad-católica-de-temuco",
+        
+          title: 'III Congreso Internacional de Estudios Sociales, Financieros e Internacionales - Universidad Católica de... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "El Dr. Julián Díaz Tautiva, Director del Centro de Gestión y Economía Aplicada de la Universidad Católica de Temuco, participó activamente en el III Congreso Internacional de Estudios Sociales, Financieros e […]",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://fcjea.uct.cl/noticias/iii-congreso-internacional-de-estudios-sociales-financieros-e-internacionales/", "_blank");
           
         },
       },{id: "post-investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educación-organizado-por-el-tec-de-monterrey-universidad-católica-de-temuco",
