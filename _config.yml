@@ -123,8 +123,13 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: FCJEA UCT Post
     posts:
-      - url: https://fcjea.uct.cl/noticias/investigador-de-la-fcjea-participa-en-workshop-internacional-sobre-el-futuro-de-la-educacion-organizado-por-el-tec-de-monterrey/
+      - url: https://fcjea.uct.cl/noticias/iii-congreso-internacional-de-estudios-sociales-financieros-e-internacionales/
         published_date: 2025-08-14
+
+  - name: FCJEA UCT Post
+    posts:
+      - url: https://fcjea.uct.cl/noticias/academicos-de-la-facultad-participaron-en-conferencia-internacional-sobre-geoparques-unesco/
+        published_date: 2025-09-14
         
   - name: FCJEA UCT Post
     posts:
