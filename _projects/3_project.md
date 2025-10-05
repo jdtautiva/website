@@ -33,6 +33,7 @@ My work aims to connect **academic research and policy practice**, offering evid
 1. [Navigating Climate Pressure: A Bibliometric and Systematic Literature Review of Climate Change Strategies in Small and Medium-Sized Enterprises](https://doi.org/10.1016/j.heliyon.2025.e43610)
 3. [Navigating Climate Change: Strategies and Awareness among Micro, Small, and Medium Enterprises in a Developing Economy](https://doi.org/10.1371/journal.pone.0327165)
 4. [Trends in Research on Climate Change and Organizations: A Bibliometric Analysis (1999–2021)](https://doi.org/10.1007/s11301-022-00298-1)
+5. [Certification Schemes and Organizations: Exploring Trends, Research Gaps, And Future Directions](https://doi.org/10.1177/21582440241301834)
 
 ---
 ## Working Papers  
