@@ -151,9 +151,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-the-policy-report-titled-solicitudes-por-la-ley-20-720-entre-el-2020-2024-tendencias-nacionales-y-regionales-con-foco-en-la-araucanía-on-the-seminar-más-de-una-decada-de-la-ley-20720",
           title: 'Presented the policy report titled “Solicitudes por la Ley 20.720 entre el 2020-2024...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-globe-2020",
+          title: 'GLOBE 2020',
+          description: "Exploring Culture and Leadership Worldwide",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/1_project/";
             },},{id: "projects-project-2",
