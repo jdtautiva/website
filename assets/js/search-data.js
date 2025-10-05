@@ -163,7 +163,7 @@ ninja.data = [{
               window.location.href = "/website/projects/2_project/";
             },},{id: "projects-climate-change-and-economic-behavior",
           title: 'Climate Change and Economic Behavior',
-          description: "",
+          description: "Determinants and Trends",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/3_project/";
             },},{
