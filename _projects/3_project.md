@@ -2,10 +2,10 @@
 layout: page
 title: Climate Change and Economic Behavior
 description: 
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+img:
+importance: 1
+category: national
+related_publications: false
 ---
 ## About the Project  
 This research initiative examines how climate change influences the behavior of economic agents, with a particular focus on how individuals, firms, and industries adapt to evolving environmental and regulatory contexts.  
