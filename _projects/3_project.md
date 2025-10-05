@@ -17,7 +17,7 @@ The project explores the economic and behavioral responses to climate pressures,
 The project investigates how **climate change shapes economic agents’ behavior**, focusing on three interrelated dimensions:  
 
 - Organizational Adaptation: How firms—especially small and medium-sized enterprises (SMEs)—respond to environmental uncertainty, regulation, and stakeholder pressure.  
-- Individual and Market Behavior:** How consumers, workers, and investors adjust their choices in response to climate risks and sustainability transitions.  
+- Individual and Market Behavior: How consumers, workers, and investors adjust their choices in response to climate risks and sustainability transitions.  
 - Economic Valuation of Climate Impacts: How environmental changes affect local and regional economies, particularly in tourism, agriculture, and natural resource sectors.  
 
 Together, these lines of research provide a comprehensive understanding of the behavioral foundations of climate action and economic resilience.  
