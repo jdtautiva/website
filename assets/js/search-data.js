@@ -156,9 +156,9 @@ ninja.data = [{
           description: "Exploring Culture and Leadership Worldwide",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-corporate-governance-and-sustainable-performance",
+          title: 'Corporate Governance and Sustainable Performance',
+          description: "Recent Trends and Global Discussions",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
