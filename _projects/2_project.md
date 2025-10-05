@@ -7,28 +7,45 @@ importance: 2
 category: nacional
 giscus_comments: true
 ---
-About the Project
-This research initiative explores how corporate governance systems influence sustainable outcomes in organizations. The project aims to deepen our understanding of the mechanisms through which board composition, ownership structures, and strategic interactions foster or constrain corporate sustainability. By examining governance from a multidimensional perspective—spanning institutional, organizational, and behavioral layers—the project contributes to both academic theory and practical insights for policymakers and business leaders.
 
-Research Focus
-The project investigates how corporate governance shapes sustainable outcomes, emphasizing the dynamic relationships between board decision-making, stakeholder engagement, and long-term value creation. Specifically, it examines:
-- How internal governance mechanisms interact to support environmental and social responsibility.
-- The role of board networks and social learning in diffusing sustainability practices.
-- How ownership patterns and control structures evolve and influence corporate accountability.
-- The long-term historical trajectories of governance reforms within emerging economies.
-By bridging corporate governance theory with sustainability and institutional research, the project advances the conversation on how organizations can align profitability with ethical and environmental stewardship.
+## About the Project  
+This research initiative explores how **corporate governance systems influence sustainable outcomes** in organizations. The project aims to deepen our understanding of the mechanisms through which board composition, ownership structures, and strategic interactions foster or constrain corporate sustainability.  
 
-My Role as Principal Researcher
-As Principal Researcher, I lead the conceptual and empirical development of the project. My responsibilities include coordinating international collaborations, designing bibliometric and longitudinal studies, and supervising the data collection and analysis phases. The research integrates quantitative bibliometric mapping, network analysis, and historical institutional approaches to uncover evolving governance trends and their implications for sustainable performance.
-This project forms part of my broader research agenda on responsible corporate behavior and governance innovation within Latin American and global contexts.
+By examining governance from a multidimensional perspective—spanning institutional, organizational, and behavioral layers—the project contributes to both academic theory and practical insights for policymakers and business leaders.  
 
-Working Papers
-The project currently includes several interrelated studies at various stages of development:
-- Mapping the Corporate Governance–Corporate Social Performance Nexus: A Bibliometric Analysis (1990–2022)
-A quantitative overview of global research trends, key authors, and emerging themes linking governance and sustainability.
-- Unraveling Sustainable Corporate Governance: The Dynamic Interplay of Network Strategies, Board Social Learning, and Board Structure
-An exploration of how inter-board networks and social learning processes shape sustainability outcomes.
-- Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms
-An empirical study on how multiple governance tools—boards, incentives, and control systems—jointly affect sustainability performance.
-- Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)
-A historical analysis of ownership concentration and control dynamics within major Chilean corporations over six decades.
+---
+## Research Focus  
+The project investigates how **corporate governance shapes sustainable outcomes**, emphasizing the dynamic relationships between **board decision-making, stakeholder engagement, and long-term value creation**.  
+
+Specifically, it examines:  
+- How internal governance mechanisms interact to support environmental and social responsibility.  
+- The role of **board networks and social learning** in diffusing sustainability practices.  
+- How ownership patterns and control structures evolve and influence corporate accountability.  
+- The long-term historical trajectories of governance reforms within emerging economies.  
+
+By bridging **corporate governance theory** with **sustainability and institutional research**, the project advances the conversation on how organizations can align profitability with ethical and environmental stewardship.  
+
+---
+## My Role as Principal Researcher  
+As **Principal Researcher**, I lead the conceptual and empirical development of the project. My responsibilities include coordinating international collaborations, designing bibliometric and longitudinal studies, and supervising the data collection and analysis phases.  
+
+The research integrates **quantitative bibliometric mapping**, **network analysis**, and **historical institutional approaches** to uncover evolving governance trends and their implications for sustainable performance.  
+
+This project forms part of my broader research agenda on **responsible corporate behavior and governance innovation** within Latin American and global contexts.  
+
+---
+## Working Papers  
+1. **Mapping the Corporate Governance–Corporate Social Performance Nexus: A Bibliometric Analysis (1990–2022)**  
+   *A quantitative overview of global research trends, key authors, and emerging themes linking governance and sustainability.*  
+
+2. **Unraveling Sustainable Corporate Governance: The Dynamic Interplay of Network Strategies, Board Social Learning, and Board Structure**  
+   *An exploration of how inter-board networks and social learning processes shape sustainability outcomes.*  
+
+3. **Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms**  
+   *An empirical study on how multiple governance tools—boards, incentives, and control systems—jointly affect sustainability performance.*  
+
+4. **Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)**  
+   *A historical analysis of ownership concentration and control dynamics within major Chilean corporations over six decades.*  
+
+---
+*Last updated: October 2025* 
