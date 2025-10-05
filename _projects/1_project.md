@@ -9,8 +9,10 @@ related_publications: false
 ---
 ## About the Project  
 The GLOBE 2020 Research Project extends more than two decades of collaborative research on Global Leadership and Organizational Behavior Effectiveness (GLOBE).  
-Initially launched in the 1990s, GLOBE became one of the most comprehensive cross-cultural studies ever conducted in the social sciences, involving over **200 researchers across 62 societies**. It examined how societal culture shapes **leadership expectations, values, and organizational practices**.  
-In this new phase—**GLOBE 2020**—the project builds upon its rich legacy to explore how leadership and cultural dynamics evolve in an **increasingly globalized, interconnected, and technologically driven world.
+
+Initially launched in the 1990s, GLOBE became one of the most comprehensive cross-cultural studies ever conducted in the social sciences, involving over **200 researchers across 62 societies**. It examined how societal culture shapes **leadership expectations, values, and organizational practices.  
+
+In this new phase—GLOBE 2020—the project builds upon its rich legacy to explore how leadership and cultural dynamics evolve in an **increasingly globalized, interconnected, and technologically driven world.
 
 ---
 ## Research Leadership  
