@@ -1,81 +1,43 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Climate Change and Economic Behavior
+description: 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
+## About the Project  
+This research initiative examines how climate change influences the behavior of economic agents, with a particular focus on how individuals, firms, and industries adapt to evolving environmental and regulatory contexts.  
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The project explores the economic and behavioral responses to climate pressures, emphasizing how decision-making processes, sustainability strategies, and adaptive mechanisms shape organizational and market outcomes. By integrating insights from **environmental economics, behavioral science, and sustainability studies**, this research seeks to advance the understanding of how economic systems can transition toward climate-resilient and low-carbon models.  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
+## Research Focus  
+The project investigates how **climate change shapes economic agents’ behavior**, focusing on three interrelated dimensions:  
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- Organizational Adaptation: How firms—especially small and medium-sized enterprises (SMEs)—respond to environmental uncertainty, regulation, and stakeholder pressure.  
+- Individual and Market Behavior:** How consumers, workers, and investors adjust their choices in response to climate risks and sustainability transitions.  
+- Economic Valuation of Climate Impacts: How environmental changes affect local and regional economies, particularly in tourism, agriculture, and natural resource sectors.  
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Together, these lines of research provide a comprehensive understanding of the behavioral foundations of climate action and economic resilience.  
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
+## My Role as Principal Researcher  
+As Principal Researcher, I lead the conceptual development, methodological design, and empirical analysis of the project. This involves coordinating interdisciplinary collaborations, conducting bibliometric and econometric analyses, and integrating cross-sectoral insights from both developed and developing contexts.  
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+My work aims to connect **academic research and policy practice**, offering evidence-based insights that can guide governments, businesses, and civil society in designing effective climate strategies.  
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
+## Articles  
+1. [Navigating Climate Pressure: A Bibliometric and Systematic Literature Review of Climate Change Strategies in Small and Medium-Sized Enterprises](https://doi.org/10.1016/j.heliyon.2025.e43610)
+3. [Navigating Climate Change: Strategies and Awareness among Micro, Small, and Medium Enterprises in a Developing Economy](https://doi.org/10.1371/journal.pone.0327165)
+4. [Trends in Research on Climate Change and Organizations: A Bibliometric Analysis (1999–2021)](https://doi.org/10.1007/s11301-022-00298-1)
 
-{% raw %}
+---
+## Working Papers  
+- Valuing the Climate Impact on Sun and Beach Tourism: Evidence from Chilean Coastal Destinations Using the Travel Cost Method
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+---
+*Last updated: October 2025*  
 
-{% endraw %}
