@@ -1,81 +1,34 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Corporate Governance and Sustainable Performance
+description: Recent Trends and Global Discussions
+img: 
 importance: 2
-category: work
+category: nacional
 giscus_comments: true
 ---
+About the Project
+This research initiative explores how corporate governance systems influence sustainable outcomes in organizations. The project aims to deepen our understanding of the mechanisms through which board composition, ownership structures, and strategic interactions foster or constrain corporate sustainability. By examining governance from a multidimensional perspective—spanning institutional, organizational, and behavioral layers—the project contributes to both academic theory and practical insights for policymakers and business leaders.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Research Focus
+The project investigates how corporate governance shapes sustainable outcomes, emphasizing the dynamic relationships between board decision-making, stakeholder engagement, and long-term value creation. Specifically, it examines:
+- How internal governance mechanisms interact to support environmental and social responsibility.
+- The role of board networks and social learning in diffusing sustainability practices.
+- How ownership patterns and control structures evolve and influence corporate accountability.
+- The long-term historical trajectories of governance reforms within emerging economies.
+By bridging corporate governance theory with sustainability and institutional research, the project advances the conversation on how organizations can align profitability with ethical and environmental stewardship.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+My Role as Principal Researcher
+As Principal Researcher, I lead the conceptual and empirical development of the project. My responsibilities include coordinating international collaborations, designing bibliometric and longitudinal studies, and supervising the data collection and analysis phases. The research integrates quantitative bibliometric mapping, network analysis, and historical institutional approaches to uncover evolving governance trends and their implications for sustainable performance.
+This project forms part of my broader research agenda on responsible corporate behavior and governance innovation within Latin American and global contexts.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Working Papers
+The project currently includes several interrelated studies at various stages of development:
+- Mapping the Corporate Governance–Corporate Social Performance Nexus: A Bibliometric Analysis (1990–2022)
+A quantitative overview of global research trends, key authors, and emerging themes linking governance and sustainability.
+- Unraveling Sustainable Corporate Governance: The Dynamic Interplay of Network Strategies, Board Social Learning, and Board Structure
+An exploration of how inter-board networks and social learning processes shape sustainability outcomes.
+- Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms
+An empirical study on how multiple governance tools—boards, incentives, and control systems—jointly affect sustainability performance.
+- Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)
+A historical analysis of ownership concentration and control dynamics within major Chilean corporations over six decades.
