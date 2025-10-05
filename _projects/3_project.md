@@ -10,7 +10,7 @@ related_publications: false
 ## About the Project  
 This research initiative examines how climate change influences the behavior of economic agents, with a particular focus on how individuals, firms, and industries adapt to evolving environmental and regulatory contexts.  
 
-The project explores the economic and behavioral responses to climate pressures, emphasizing how decision-making processes, sustainability strategies, and adaptive mechanisms shape organizational and market outcomes. By integrating insights from **environmental economics, behavioral science, and sustainability studies**, this research seeks to advance the understanding of how economic systems can transition toward climate-resilient and low-carbon models.  
+The project explores the economic and behavioral responses to climate pressures, emphasizing how decision-making processes, sustainability strategies, and adaptive mechanisms shape organizational and market outcomes. By integrating insights from environmental economics, behavioral science, and sustainability studies, this research seeks to advance the understanding of how economic systems can transition toward climate-resilient and low-carbon models.  
 
 ---
 ## Research Focus  
