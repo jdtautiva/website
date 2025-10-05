@@ -35,16 +35,9 @@ This project forms part of my broader research agenda on **responsible corporate
 ---
 ## Working Papers  
 1. **Mapping the Corporate Governance–Corporate Social Performance Nexus: A Bibliometric Analysis (1990–2022)**  
-   *A quantitative overview of global research trends, key authors, and emerging themes linking governance and sustainability.*  
-
 2. **Unraveling Sustainable Corporate Governance: The Dynamic Interplay of Network Strategies, Board Social Learning, and Board Structure**  
-   *An exploration of how inter-board networks and social learning processes shape sustainability outcomes.*  
-
 3. **Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms**  
-   *An empirical study on how multiple governance tools—boards, incentives, and control systems—jointly affect sustainability performance.*  
-
-4. **Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)**  
-   *A historical analysis of ownership concentration and control dynamics within major Chilean corporations over six decades.*  
+4. **Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)**
 
 ---
 *Last updated: October 2025* 
