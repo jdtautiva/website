@@ -36,7 +36,7 @@ My work aims to connect **academic research and policy practice**, offering evid
 
 ---
 ## Working Papers  
-- Valuing the Climate Impact on Sun and Beach Tourism: Evidence from Chilean Coastal Destinations Using the Travel Cost Method
+1. Valuing the Climate Impact on Sun and Beach Tourism: Evidence from Chilean Coastal Destinations Using the Travel Cost Method
 
 ---
 *Last updated: October 2025*  
