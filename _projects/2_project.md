@@ -3,11 +3,10 @@ layout: page
 title: Corporate Governance and Sustainable Performance
 description: Recent Trends and Global Discussions
 img: 
-importance: 2
+importance: 1
 category: national
-giscus_comments: true
+related_publications: false
 ---
-
 ## About the Project  
 This research initiative explores how **corporate governance systems influence sustainable outcomes** in organizations. The project aims to deepen our understanding of the mechanisms through which board composition, ownership structures, and strategic interactions foster or constrain corporate sustainability.  
 
