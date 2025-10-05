@@ -4,7 +4,7 @@ title: Corporate Governance and Sustainable Performance
 description: Recent Trends and Global Discussions
 img: 
 importance: 2
-category: nacional
+category: national
 giscus_comments: true
 ---
 
