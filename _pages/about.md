@@ -9,7 +9,7 @@ profile:
   image: Foto.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>+56452205619</p>
+    <p>julian.diaz@uct.cl</p>
     <p>Manuel Montt 56</p>
     <p>Temuco, 478000</p>
 
