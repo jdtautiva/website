@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: Research Groups
 description: 
-nav: true
+nav: false
 nav_order: 7
 
 profiles:
