@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Climate Change and Economic Behavior
-description: Determinants and Trends
+description: Trends and Frontiers
 img:
 importance: 1
 category: national
