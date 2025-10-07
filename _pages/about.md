@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>UC Temuco</a>. Manuel Montt 56. CSF 11 Of. 515.
 
