@@ -166,6 +166,11 @@ ninja.data = [{
           description: "Trends and Frontiers",
           section: "Projects",handler: () => {
               window.location.href = "/website/projects/3_project/";
+            },},{id: "projects-technology-behavior-and-economic-decision-making",
+          title: 'Technology, Behavior, and Economic Decision-Making',
+          description: "Contextual Forces",
+          section: "Projects",handler: () => {
+              window.location.href = "/website/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
