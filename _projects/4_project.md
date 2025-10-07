@@ -25,6 +25,7 @@ By bridging insights from **behavioral science, technology management, and susta
 As **Principal Researcher**, I lead the design, coordination, and integration of studies examining behavioral and technological drivers of change. My work involves applying interdisciplinary methods—including **experimental design, bibliometric analysis, and quantitative modeling**—to explore how individuals and firms adapt to technological and environmental shifts.  
 
 This project also supports the development of **evidence-based frameworks** that guide policymakers, managers, and educators in fostering technology adoption aligned with human values and sustainable growth.  
+
 ---
 ## Publications  
 1. [Integrating Neuroscience into B2B Sales Research: Foundations, Frontiers, and Expert Directions](https://doi.org/10.1007/s11301-025-00550-4)
@@ -34,7 +35,8 @@ This project also supports the development of **evidence-based frameworks** that
 ## Working Papers  
 - Fostering Creative Decision-Making: The Impact of Psychological Empowerment and Locus of Control on Individual Performance  
 - AI in Sales: Environmental, Behavioral, and Technological Drivers of Adoption in an Emerging Market  
-- Immersive Realities in Business, Management, and Economics Education:** A Systematic Review and Research Agenda  
+- Immersive Realities in Business, Management, and Economics Education:** A Systematic Review and Research Agenda
+ 
 ---
 
 *Last updated: October 2025*  
