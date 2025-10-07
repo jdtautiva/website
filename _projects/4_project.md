@@ -30,7 +30,7 @@ This project also supports the development of **evidence-based frameworks** that
 ## Publications  
 1. [Integrating Neuroscience into B2B Sales Research: Foundations, Frontiers, and Expert Directions](https://doi.org/10.1007/s11301-025-00550-4)
 2. [Digital Transformation of Enterprises to Enhance Sustainability: How Does the Reputation of Digital Applications Influence the Attributes of E-Commerce](https://doi.org/10.3390/su16177365)
-3. [Mapping the research about organisations in the latin american context: a bibliometric analysis]([https://doi.org/10.3390/su16177365](https://doi.org/10.1007/s11301-022-00296-3])
+3. [Mapping the research about organisations in the latin american context: a bibliometric analysis](https://doi.org/10.1007/s11301-022-00296-3)
    
 ---
 ## Working Papers  
