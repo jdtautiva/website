@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-teaching-portfolio-2023-2025",
+          title: "Teaching Portfolio 2023–2025",
+          description: "Overview of courses taught between 2023 and 2025 at Universidad Católica de Temuco, Universidad Santo Tomás, and Universidad del Desarrollo.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/teaching/";
