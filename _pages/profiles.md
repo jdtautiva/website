@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: Research Groups
+title: Research Groups
+description: 
 nav: true
 nav_order: 7
 
