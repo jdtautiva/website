@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Overview of courses taught between 2023 and 2025 at Universidad Católica de Temuco, Universidad Santo Tomás, and Universidad del Desarrollo.
+description: Overview of courses taught between 2023 and 2026 at Universidad Católica de Temuco, Universidad Santo Tomás, and Universidad del Desarrollo.
 nav: true
 nav_order: 6
 ---
