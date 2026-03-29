@@ -38,7 +38,7 @@ An advanced seminar focusing on statistical reasoning, multivariate analysis, an
 Explores consumer choice and production theory through a rigorous microeconomic framework, emphasizing optimization, duality, and equilibrium analysis. Students learn to apply formal models to understand decision-making by households and firms, with applications to market outcomes and policy issues in Latin American contexts.
 
 **Undergraduate Lecturer – Microeconomics II**  [📘 Course Material](https://jdtautiva.github.io/microeconomics-ii/)
-*Temuco, Chile – 2024–2025*  
+*Temuco, Chile – 2024–2026*  
 Explores market structures, production theory, and welfare economics through a partial and general equilibrium perspective. Students learn to apply microeconomic models to analyze firm behavior and policy interventions within Latin American contexts.
 
 **Undergraduate Lecturer – Macroeconomics I**  
