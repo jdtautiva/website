@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Overview of courses taught between 2023 and 2025 at Universidad Católica de Temuco, Universidad Santo Tomás, and Universidad del Desarrollo.",
+          description: "Overview of courses taught between 2023 and 2026 at Universidad Católica de Temuco, Universidad Santo Tomás, and Universidad del Desarrollo.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/website/teaching/";
