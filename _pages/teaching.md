@@ -35,6 +35,7 @@ An advanced seminar focusing on statistical reasoning, multivariate analysis, an
 
 **Undergraduate Lecturer – Microeconomics I**  
 *Temuco, Chile – 2026*  
+[📘 Course Material](https://jdtautiva.github.io/microeconomics-i/)
 Explores consumer choice and production theory through a rigorous microeconomic framework, emphasizing optimization, duality, and equilibrium analysis. Students learn to apply formal models to understand decision-making by households and firms, with applications to market outcomes and policy issues in Latin American contexts.
 
 **Undergraduate Lecturer – Microeconomics II**  
