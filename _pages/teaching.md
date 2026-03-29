@@ -11,7 +11,7 @@ nav_order: 6
 My teaching practice integrates analytical rigor with applied perspectives, combining theory, data, and creativity to prepare students for the complexity of modern business and social environments. Across undergraduate, MBA, and doctoral levels, I promote experiential learning, case-based discussion, and the use of digital tools to connect conceptual understanding with real-world challenges.
 
 ---
-## Universidad Santo Tomás (2024–2025)
+## Universidad Santo Tomás (2024–2026)
 
 **MBA Lecturer – Digital Marketing & Electronic Commerce**  
 *Los Ángeles, Chile – 2024*  
@@ -27,11 +27,15 @@ This course introduces quantitative and qualitative research methods applied to 
 
 ---
 
-## Universidad Católica de Temuco (2024–2025)
+## Universidad Católica de Temuco (2024–2026)
 
 **Doctoral Seminar – Data Analysis for Social Science**  
 *Temuco, Chile – 2025*  
 An advanced seminar focusing on statistical reasoning, multivariate analysis, and reproducible research practices in the social sciences. Emphasis is placed on applying quantitative techniques through R and Stata, fostering methodological transparency and critical interpretation.
+
+**Undergraduate Lecturer – Microeconomics I**  
+*Temuco, Chile – 2026*  
+Explores consumer choice and production theory through a rigorous microeconomic framework, emphasizing optimization, duality, and equilibrium analysis. Students learn to apply formal models to understand decision-making by households and firms, with applications to market outcomes and policy issues in Latin American contexts.
 
 **Undergraduate Lecturer – Microeconomics II**  
 *Temuco, Chile – 2024–2025*  
