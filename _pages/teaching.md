@@ -33,12 +33,11 @@ This course introduces quantitative and qualitative research methods applied to 
 *Temuco, Chile – 2025*  
 An advanced seminar focusing on statistical reasoning, multivariate analysis, and reproducible research practices in the social sciences. Emphasis is placed on applying quantitative techniques through R and Stata, fostering methodological transparency and critical interpretation.
 
-**Undergraduate Lecturer – Microeconomics I**  
+**Undergraduate Lecturer – Microeconomics I**  [📘 Course Material](https://jdtautiva.github.io/microeconomics-i/)
 *Temuco, Chile – 2026*  
-[📘 Course Material](https://jdtautiva.github.io/microeconomics-i/)
 Explores consumer choice and production theory through a rigorous microeconomic framework, emphasizing optimization, duality, and equilibrium analysis. Students learn to apply formal models to understand decision-making by households and firms, with applications to market outcomes and policy issues in Latin American contexts.
 
-**Undergraduate Lecturer – Microeconomics II**  
+**Undergraduate Lecturer – Microeconomics II**  [📘 Course Material](https://jdtautiva.github.io/microeconomics-ii/)
 *Temuco, Chile – 2024–2025*  
 Explores market structures, production theory, and welfare economics through a partial and general equilibrium perspective. Students learn to apply microeconomic models to analyze firm behavior and policy interventions within Latin American contexts.
 
