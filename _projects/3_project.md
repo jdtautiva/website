@@ -30,16 +30,23 @@ My work aims to connect **academic research and policy practice**, offering evid
 
 ---
 ## Articles  
-1. [Navigating Climate Pressure: A Bibliometric and Systematic Literature Review of Climate Change Strategies in Small and Medium-Sized Enterprises](https://doi.org/10.1016/j.heliyon.2025.e43610)
-3. [Navigating Climate Change: Strategies and Awareness among Micro, Small, and Medium Enterprises in a Developing Economy](https://doi.org/10.1371/journal.pone.0327165)
-4. [Trends in Research on Climate Change and Organizations: A Bibliometric Analysis (1999–2021)](https://doi.org/10.1007/s11301-022-00298-1)
-5. [Certification Schemes and Organizations: Exploring Trends, Research Gaps, And Future Directions](https://doi.org/10.1177/21582440241301834)
+Climate Change
+- [Navigating Climate Pressure: A Bibliometric and Systematic Literature Review of Climate Change Strategies in Small and Medium-Sized Enterprises](https://doi.org/10.1016/j.heliyon.2025.e43610)
+- [Navigating Climate Change: Strategies and Awareness among Micro, Small, and Medium Enterprises in a Developing Economy](https://doi.org/10.1371/journal.pone.0327165)
+- [Trends in Research on Climate Change and Organizations: A Bibliometric Analysis (1999–2021)](https://doi.org/10.1007/s11301-022-00298-1)
+
+Sustainability Behavior
+- [Understanding the role of institutions and economic context on entrepreneurial value creation choice](https://doi.org/10.24136/oc.2023.011)
+- [Certification Schemes and Organizations: Exploring Trends, Research Gaps, And Future Directions](https://doi.org/10.1177/21582440241301834)
 
 ---
-## Working Papers  
-1. **Valuing the Climate Impact on Sun and Beach Tourism: Evidence from Chilean Coastal Destinations Using the Travel Cost Method.**
-2. **Structural gaps in the value chain of Kappaphycus alvarezii limit sustainable aquaculture development in Ecuador.**
-3. **When More Is Not Always Better: Nonlinear Effects of Environmental and Social Sustainability Signals on Consumer Choice.**
+## Working Papers
+Climate Change
+- **Valuing the Climate Impact on Sun and Beach Tourism**: Evidence from Chilean Coastal Destinations Using the Travel Cost Method.
+
+Sustainability Behavior
+- **Structural gaps in the value chain of Kappaphycus alvarezii limit sustainable aquaculture development in Ecuador.**
+- **When More Is Not Always Better**: Nonlinear Effects of Environmental and Social Sustainability Signals on Consumer Choice.
 
 ---
 *Last updated: October 2025*  
