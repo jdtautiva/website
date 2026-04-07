@@ -35,9 +35,9 @@ This project forms part of my broader research agenda on **responsible corporate
 ---
 ## Working Papers  
 1. **Mapping the Corporate Governance–Corporate Social Performance Nexus: A Bibliometric Analysis (1990–2022)**  
-2. **Unraveling Sustainable Corporate Governance: The Dynamic Interplay of Network Strategies, Board Social Learning, and Board Structure**  
-3. **Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms**  
-4. **Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)**
+2. **Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms**  
+3. **Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)**
+4. **Unraveling the Knots: Exploring the Impact of Political Uncertainty, Economic Uncertainty, and Institutional Voids on the interlocking network evolution**
 
 ---
-*Last updated: October 2025* 
+*Last updated: April 2026* 
