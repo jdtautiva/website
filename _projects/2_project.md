@@ -33,11 +33,17 @@ The research integrates **quantitative bibliometric mapping**, **network analysi
 This project forms part of my broader research agenda on **responsible corporate behavior and governance innovation** within Latin American and global contexts.  
 
 ---
-## Working Papers  
-1. **Mapping the Corporate Governance–Corporate Social Performance Nexus: A Bibliometric Analysis (1990–2022)**  
-2. **Unlocking Sustainable Success: Unveiling the Complementarities of Internal Corporate Governance Mechanisms**  
-3. **Ownership and Control Trajectories: Observing Large Corporations in Chile (1960–2020)**
-4. **Unraveling the Knots: Exploring the Impact of Political Uncertainty, Economic Uncertainty, and Institutional Voids on the interlocking network evolution**
+## Articles  
+Internal Governance Mechanisms
+- [Unraveling Sustainable Corporate Governance: The Dynamic Interplay of Network Strategies, Board Social Learning, and Board Structure](https://doi.org/10.1016/j.iedeen.2026.100306)
+---
+
+---
+## Working Papers
+- **Mapping the Corporate Governance–Corporate Social Performance Nexus**: A Bibliometric Analysis (1990–2022).
+- **Unlocking Sustainable Success**: Unveiling the Complementarities of Internal Corporate Governance Mechanisms.  
+- **Ownership and Control Trajectories**: Observing Large Corporations in Chile (1960–2020).
+- **Unraveling the Knots**: Exploring the Impact of Political Uncertainty, Economic Uncertainty, and Institutional Voids on the interlocking network evolution.
 
 ---
 *Last updated: April 2026* 
