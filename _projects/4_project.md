@@ -31,14 +31,16 @@ This project also supports the development of **evidence-based frameworks** that
 1. [Integrating Neuroscience into B2B Sales Research: Foundations, Frontiers, and Expert Directions](https://doi.org/10.1007/s11301-025-00550-4)
 2. [Digital Transformation of Enterprises to Enhance Sustainability: How Does the Reputation of Digital Applications Influence the Attributes of E-Commerce](https://doi.org/10.3390/su16177365)
 3. [Mapping the research about organisations in the latin american context: a bibliometric analysis](https://doi.org/10.1007/s11301-022-00296-3)
+4. [AI in Sales: Environmental, Behavioral, and Technological Drivers of Adoption in an Emerging Market](https://doi.org/10.1016/j.ssaho.2025.102161)
    
 ---
 ## Working Papers  
-- Fostering Creative Decision-Making: The Impact of Psychological Empowerment and Locus of Control on Individual Performance  
-- AI in Sales: Environmental, Behavioral, and Technological Drivers of Adoption in an Emerging Market  
-- Immersive Realities in Business, Management, and Economics Education:** A Systematic Review and Research Agenda
+- **Fostering Creative Decision-Making: The Impact of Psychological Empowerment and Locus of Control on Individual Performance.**
+- **Immersive Realities in Business, Management, and Economics Education:** A Systematic Review and Research Agenda.**
+- **From South To North: a Configurational Analysis of Reverse Innovation in Chile.**
+- **Who leads, who leaves: Identity Conflcit and the fate of social ventures.**
  
 ---
 
-*Last updated: October 2025*  
+*Last updated: April 2026*  
 
