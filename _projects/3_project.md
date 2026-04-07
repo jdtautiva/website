@@ -37,7 +37,9 @@ My work aims to connect **academic research and policy practice**, offering evid
 
 ---
 ## Working Papers  
-1. Valuing the Climate Impact on Sun and Beach Tourism: Evidence from Chilean Coastal Destinations Using the Travel Cost Method
+1. **Valuing the Climate Impact on Sun and Beach Tourism: Evidence from Chilean Coastal Destinations Using the Travel Cost Method.**
+2. **Structural gaps in the value chain of Kappaphycus alvarezii limit sustainable aquaculture development in Ecuador.**
+3. **When More Is Not Always Better: Nonlinear Effects of Environmental and Social Sustainability Signals on Consumer Choice.**
 
 ---
 *Last updated: October 2025*  
