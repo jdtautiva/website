@@ -49,5 +49,5 @@ Sustainability Behavior
 - **When More Is Not Always Better**: Nonlinear Effects of Environmental and Social Sustainability Signals on Consumer Choice.
 
 ---
-*Last updated: October 2025*  
+*Last updated: April 2026*  
 
