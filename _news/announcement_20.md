@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded with the "Social Entrepreneurship Paper" at the Academy of Management 2026 Meeting.
+Awarded with the Best "Social Entrepreneurship Paper" at the Academy of Management 2026 Meeting.
