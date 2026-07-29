@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>UC Temuco</a>. Manuel Montt 56. CSF 11 Of. 515.
+subtitle: <a href='#'>UNAB</a>. Autop. Concepción - Talcahuano 7100, 4th Floor- FEN.
 
 profile:
   align: right
