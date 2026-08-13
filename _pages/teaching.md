@@ -11,20 +11,41 @@ nav_order: 6
 My teaching practice integrates analytical rigor with applied perspectives, combining theory, data, and creativity to prepare students for the complexity of modern business and social environments. Across undergraduate, MBA, and doctoral levels, I promote experiential learning, case-based discussion, and the use of digital tools to connect conceptual understanding with real-world challenges.
 
 ---
-## Universidad Santo Tomás (2024–2026)
+## Universidad Andrés Bello (2026)
+**Undergraduate Lecturer – Microeconomic Principles** *Concepción, Chile – 2026*  
+Designed to build a strong foundation in microeconomic analysis, this course integrates consumer and firm behavior, market structures, pricing, and resource allocation with applications to business decision-making. Students apply economic reasoning to understand how firms respond to incentives, competition, and changing market conditions.
 
+**Undergraduate Lecturer – International Economics** *Concepción, Chile – 2026*  
+Designed to develop an up-to-date understanding of international economic theory, this course integrates contemporary perspectives on international trade, exchange rates, global capital flows, and economic integration. Students examine how changes in the global economy shape countries, industries, and firms operating across international markets.
+
+**Undergraduate Lecturer – Marketing** *Concepción, Chile – 2026*  
+Designed to develop a managerial perspective on marketing in emerging markets, this course integrates market analysis, consumer behavior, segmentation, positioning, branding, and marketing strategy. Students examine how firms adapt marketing decisions to institutional constraints, market dynamism, and evolving consumer needs in emerging economies.
+
+**Undergraduate Lecturer – Fundamental Economics** *Concepción, Chile – 2026*
+Designed to introduce the core principles of economics, this course emphasizes fundamental microeconomic concepts and their application to business contexts. Students explore demand and supply, market equilibrium, costs, competition, and firm behavior to understand how economic forces influence managerial decisions and market outcomes.
+
+**Undergraduate Lecturer – Entrepreneurship and Creativity Workshop** *Concepción, Chile – 2026*
+Designed to transform entrepreneurial ideas into testable business concepts, this workshop integrates creativity, prototyping, viability and feasibility assessment, Lean Startup principles, and pitching. Students iteratively develop and validate solutions, test key business assumptions, and communicate their value proposition through evidence-based entrepreneurial pitches.
+
+---
+## Universidad Santo Tomás (2024–2026)
 **MBA Lecturer – Digital Marketing & Electronic Commerce** *Los Ángeles, Chile – 2024*  
 This course examines the strategic and operational dimensions of digital marketing. Students explore e-commerce platforms, consumer analytics, SEO/SEM, and digital campaign management, emphasizing data-driven decision-making and ethical digital communication.
 
-**Undergraduate Lecturer – Creativity & New Businesses** *Los Ángeles, Chile – 2024–2025*  
+**Undergraduate Lecturer – Innovation Viability & Finance** *Los Ángeles, Chile – 2026*  
 Designed to foster entrepreneurial thinking, this course blends creativity techniques, opportunity identification, and innovation management. Students engage in design thinking workshops and prototype development aimed at creating scalable business models.
 
-**Undergraduate Lecturer – Data Analysis for Marketing Research** *Los Ángeles, Chile – 2024–2025*  
+**Undergraduate Lecturer – Creativity & New Businesses** *Los Ángeles, Chile – 2024–2025*  
+Designed to assess the viability of innovative ideas, this seminar integrates market validation, technical and organizational feasibility, and innovation finance. Students apply practical evaluation tools to test assumptions, estimate resource and funding needs, and determine whether innovative projects can be transformed into feasible, financially sustainable ventures.
+
+**Undergraduate Lecturer – Data Analysis for Marketing Research** *Los Ángeles, Chile – 2024–2026*  
 This course introduces quantitative and qualitative research methods applied to marketing problems. Students gain hands-on experience with statistical tools, survey design, and consumer data interpretation, linking empirical analysis to strategic marketing insights.
 
 ---
 
 ## Universidad Católica de Temuco (2024–2026)
+**Doctoral Seminar – Comparative Political Theory** *Temuco, Chile – 2026*  
+An advanced seminar focusing on rational choice theory. Emphasis in game theory approaches on social sciences.
 
 **Doctoral Seminar – Data Analysis for Social Science** *Temuco, Chile – 2025*  
 An advanced seminar focusing on statistical reasoning, multivariate analysis, and reproducible research practices in the social sciences. Emphasis is placed on applying quantitative techniques through R and Stata, fostering methodological transparency and critical interpretation.
