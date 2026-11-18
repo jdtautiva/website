@@ -121,6 +121,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: FEN UNAB Post
+    posts:
+      - url: https://noticias.unab.cl/profesor-fen-unab-presenta-en-corea-del-sur-investigacion-sobre-efectos-del-cambio-climatico-en-el-turismo/
+        published_date: 2026-09-22
+        
   - name: FCJEA UCT Post
     posts:
       - url: https://fcjea.uct.cl/noticias/iii-congreso-internacional-de-estudios-sociales-financieros-e-internacionales/
