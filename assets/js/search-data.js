@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/website/teaching/";
           },
-        },{id: "post-académicos-de-la-facultad-participaron-en-conferencia-internacional-sobre-geoparques-unesco-universidad-católica-de-temuco",
+        },{id: "post-profesor-unab-expone-sobre-impacto-del-clima-en-el-turismo",
+        
+          title: 'Profesor UNAB expone sobre impacto del clima en el turismo <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "La participación del profesor Julián Díaz en el Smart Tourism Colloquium Series permitió proyectar internacionalmente una línea de investigación de la FEN-UNAB.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://noticias.unab.cl/profesor-fen-unab-presenta-en-corea-del-sur-investigacion-sobre-efectos-del-cambio-climatico-en-el-turismo/", "_blank");
+          
+        },
+      },{id: "post-académicos-de-la-facultad-participaron-en-conferencia-internacional-sobre-geoparques-unesco-universidad-católica-de-temuco",
         
           title: 'Académicos de la Facultad participaron en conferencia internacional sobre Geoparques UNESCO - Universidad... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -197,6 +208,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-published-the-article-the-new-globe-project-integrative-model-of-outstanding-leadership-a-springboard-for-large-scale-comparative-research-in-134-societies-participation-as-country-co-investigator",
           title: 'Published the article “The New GLOBE Project Integrative Model of Outstanding Leadership: A...',
+          description: "",
+          section: "News",},{id: "news-presented-the-article-titled-understanding-international-ambidexterity-on-the-academy-of-latin-american-business-and-sustainability-studies-bogotá-colombia",
+          title: 'Presented the article titled “Understanding International Ambidexterity” on the Academy of Latin American...',
+          description: "",
+          section: "News",},{id: "news-published-the-article-navigating-governance-and-sustainable-development-challenges-in-an-emerging-unesco-global-geopark-the-case-of-kütralkura-chile",
+          title: 'Published the article “Navigating Governance and Sustainable Development Challenges in an Emerging UNESCO...',
           description: "",
           section: "News",},{id: "projects-globe-2020",
           title: 'GLOBE 2020',
