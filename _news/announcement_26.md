@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Presented the article titled "Understanding International Ambidexterity" on the Academy of Latin American Business and Sustainability Studies (Bogotá- Colombia)
+Presented the article titled "Understanding International Ambidexterity" on the Academy of Latin American Business and Sustainability Studies (Bogotá- Colombia).
 
