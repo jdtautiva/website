@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Published the article "Navigating Governance and Sustainable Development Challenges in an Emerging UNESCO Global Geopark: The Case of Kütralkura, Chile"
+Published the article "Navigating Governance and Sustainable Development Challenges in an Emerging UNESCO Global Geopark: The Case of Kütralkura, Chile".
